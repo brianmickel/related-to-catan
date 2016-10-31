@@ -1,0 +1,57 @@
+/specifications.txt
+
+
+take a turn
+  roll the die
+  be able to buy victory cards
+  be able to play victory cards
+  be able to buy and place road if possible
+  be able to buy and place settlement if possible
+  be able to buy and place city if possible
+
+collect resources each die role
+
+
+keep track of
+  max road length
+  number of knights played
+  cards in hand
+  dev cards in hand
+  victory points
+    1 settlement
+    2 city
+    2 longest road
+    2 harbors
+    2 knights
+
+board
+  3
+  4
+  5
+  4
+  3
+
+4 lumber
+4 wheat
+4 sheep
+3 brick
+3 ore
+1 desert
+
+
+9 ports
+1 each 2:1
+4 3:1 any
+
+development cards
+knight
+plenty
+
+
+ 0  0  0
+ 0  1 -1
+ 0 -1  1
+ 1  0 -1
+-1  0  1
+ 1 -1  0
+-1  1  0
