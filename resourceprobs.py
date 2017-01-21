@@ -53,33 +53,33 @@ probabilities = {
 
 def calculateExpectedValue(list_of_buildings):
     output = {1: {
-    'lumber': 0,
-    'brick': 0,
-    'wool': 0,
-    'wheat': 0,
-    'ore': 0
-    },
-    2: {
-    'lumber': 0,
-    'brick': 0,
-    'wool': 0,
-    'wheat': 0,
-    'ore': 0
-    },
-    3: {
-    'lumber': 0,
-    'brick': 0,
-    'wool': 0,
-    'wheat': 0,
-    'ore': 0
-    },
-    4: {
-    'lumber': 0,
-    'brick': 0,
-    'wool': 0,
-    'wheat': 0,
-    'ore': 0
-    }
+        'lumber': 0,
+        'brick': 0,
+        'wool': 0,
+        'wheat': 0,
+        'ore': 0
+        },
+        2: {
+        'lumber': 0,
+        'brick': 0,
+        'wool': 0,
+        'wheat': 0,
+        'ore': 0
+        },
+        3: {
+        'lumber': 0,
+        'brick': 0,
+        'wool': 0,
+        'wheat': 0,
+        'ore': 0
+        },
+        4: {
+        'lumber': 0,
+        'brick': 0,
+        'wool': 0,
+        'wheat': 0,
+        'ore': 0
+        }
     }
 
     for villageData in list_of_buildings:
